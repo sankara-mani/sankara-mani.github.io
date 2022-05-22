@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to your Adventure Game!
 
-You can use the [editor on GitHub](https://github.com/sankara-mani/sankara-mani.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Here you will be challenged on your knowledge of basic programming and you must choose your path and complete all questions.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
